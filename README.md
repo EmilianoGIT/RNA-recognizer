@@ -1,0 +1,1 @@
+Program that tells how many looops (Hairpin, Helix, Bulge, InnerLoop, MultipleLoop) are on a RNA sequence
